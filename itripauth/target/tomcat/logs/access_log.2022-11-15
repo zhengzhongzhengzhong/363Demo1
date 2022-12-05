@@ -1,0 +1,10 @@
+127.0.0.1 - - [15/Nov/2022:14:12:34 +0800] "POST /auth/api/dologin HTTP/1.0" 200 179 http-bio-8084-exec-1 476
+127.0.0.1 - - [15/Nov/2022:14:12:44 +0800] "GET /auth/api/logout HTTP/1.0" 404 949 http-bio-8084-exec-2 7
+127.0.0.1 - - [15/Nov/2022:14:13:12 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 200 67 http-bio-8084-exec-3 728
+127.0.0.1 - - [15/Nov/2022:14:13:43 +0800] "PUT /auth/api/validatephone?user=15210254693&code=9791 HTTP/1.0" 404 949 http-bio-8084-exec-4 3
+127.0.0.1 - - [15/Nov/2022:14:21:39 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 200 67 http-bio-8084-exec-1 8503
+127.0.0.1 - - [15/Nov/2022:14:22:19 +0800] "PUT /auth/api/validatephone?user=15210254693&code=9450 HTTP/1.0" 200 67 http-bio-8084-exec-2 21889
+127.0.0.1 - - [15/Nov/2022:14:22:40 +0800] "POST /auth/api/dologin HTTP/1.0" 500 8102 http-bio-8084-exec-3 3927
+127.0.0.1 - - [15/Nov/2022:14:24:03 +0800] "POST /auth/api/dologin HTTP/1.0" 200 179 http-bio-8084-exec-4 9497
+127.0.0.1 - - [15/Nov/2022:14:26:08 +0800] "GET /auth/api/logout HTTP/1.0" 404 949 http-bio-8084-exec-5 2
+127.0.0.1 - - [15/Nov/2022:14:49:04 +0800] "POST /auth/api/retoken HTTP/1.0" 404 949 http-bio-8084-exec-6 2
